@@ -1,0 +1,5 @@
+Pushpa Devara
+Artificial intelligence
+GitHub is a platform for version control and collaboration.
+GitHub lets you all work on different features at same time,
+keep track of who changed what,and merge everything together without overwriting each other's work.
